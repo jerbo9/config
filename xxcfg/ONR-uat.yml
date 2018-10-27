@@ -1,2 +1,12 @@
 redis :
   password : 'Redis#123'
+rabbitmq :
+  password : 'Rabbitmq#123'
+lemon :
+  dataSources :
+    lemon :
+      password : lemon
+    primary :
+      password : onr
+onrSftp :
+  password : 'sftp#123'
