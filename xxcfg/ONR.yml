@@ -1,2 +1,2 @@
-redis :
-  password : 'Redis123'
+cfg :
+  password : '{cipher}24c0d075e654677885f326d6d341c58d34dd5349d31b2c268b74280329c24da7'
